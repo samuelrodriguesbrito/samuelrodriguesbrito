@@ -1,4 +1,4 @@
-## Olá, meu nome é Samuel
+### Olá, meu nome é Samuel
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas na **FATEC Mogi das Cruzes**.  
 - 🚀 Apaixonado por tecnologia e sempre em busca de novos conhecimentos.  
